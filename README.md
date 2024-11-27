@@ -1,4 +1,7 @@
 # 𝗝𝗼𝗮𝗾𝘂𝗶𝗻 𝗦𝗽𝗶𝗻𝗲𝗹𝗹𝗶
+
+![](https://komarev.com/ghpvc/?username=joakospinelli)
+
 UNLP. Desarrollador, analista en TICs 👽
 
 ![Java](https://img.shields.io/badge/Java-b5363b.svg?logo=eclipseide&logoColor=white)
