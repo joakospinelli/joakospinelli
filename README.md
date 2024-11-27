@@ -1,7 +1,5 @@
 # 𝗝𝗼𝗮𝗾𝘂𝗶𝗻 𝗦𝗽𝗶𝗻𝗲𝗹𝗹𝗶
 
-![](https://komarev.com/ghpvc/?username=joakospinelli)
-
 UNLP. Desarrollador, analista en TICs 👽
 
 ![Java](https://img.shields.io/badge/Java-b5363b.svg?logo=eclipseide&logoColor=white)
@@ -15,3 +13,5 @@ UNLP. Desarrollador, analista en TICs 👽
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-3887b2.svg?logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-333940.svg?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-188037.svg?logo=mongodb&logoColor=white)
+
+![](https://komarev.com/ghpvc/?username=joakospinelli&color=6533a9)
