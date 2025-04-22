@@ -1,6 +1,6 @@
 # 𝗝𝗼𝗮𝗾𝘂𝗶𝗻 𝗦𝗽𝗶𝗻𝗲𝗹𝗹𝗶
 
-UNLP. Desarrollador, analista en TICs 👽
+UNLP. Desarrollador, analista en TICs, estudiante lic. en sistemas 👽
 
 ![Java](https://img.shields.io/badge/Java-b5363b.svg?logo=eclipseide&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-bf9d02.svg?logo=javascript&logoColor=white)
